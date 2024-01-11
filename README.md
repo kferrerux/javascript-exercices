@@ -1,4 +1,8 @@
-# Série d'exercices JAVASCRIPT - Manipulations du DOM
+# Exercices JAVASCRIPT - Manipulations du DOM - 2024
+
+<p align="center">
+  <img src="https://github.com/kferrerux/javascript-exercices/assets/77007630/389246b0-d0ed-4825-9413-c7d6190da87f" alt="Sublime's custom image"/>
+</p>
 
 ## Algorithmie :
 ----------------
@@ -9,9 +13,10 @@ Par exemple, une recette de cuisine est un algorithme permettant d'obtenir un pl
 Pour (**Document Object Model**)
 
     - Fournit une représentation *structurée du document* sous forme d'un *arbre*
-
-    Image du DOM (dom.png)
-
+    
+<p align="center">
+  <img src="https://github.com/kferrerux/javascript-exercices/assets/77007630/05052580-0a1a-4fe7-8f9e-f0a3c912bad2" alt="Sublime's custom image"/>
+</p>
     - Ci dessous, voyons la structure d'un document html source représentée sous forme d'arbre composé de noeud et de feuilles
     Chaque nœud est lié aux autres par une relation parent-enfant. Le premier nœud de l'arbre est la racine, tandis que les nœuds contiennent des feuilles.
 
