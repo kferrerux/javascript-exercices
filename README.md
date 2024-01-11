@@ -1,4 +1,4 @@
-# Exercices JAVASCRIPT - Manipulations du DOM - 2024
+# JAVASCRIPT - Manipulations du DOM - 2024
 
 <p align="center">
   <img src="https://github.com/kferrerux/javascript-exercices/assets/77007630/389246b0-d0ed-4825-9413-c7d6190da87f" alt="Sublime's custom image"/>
