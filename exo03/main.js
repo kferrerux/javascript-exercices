@@ -9,5 +9,5 @@ button.addEventListener("click", click);
 
 function click() {
   button.style.backgroundColor = "blue";
-  button.style.color = "white;"
+  button.style.color = "white";
 }
