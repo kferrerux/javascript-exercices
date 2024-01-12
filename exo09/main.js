@@ -3,10 +3,15 @@
 // https://developer.mozilla.org/fr/docs/Web/API/HTMLStyleElement
 
 let element = document.getElementById('box');
+// Exercice précédent
 
-element.style.fontSize = '2rem';
-element.style.width = '300px';
-element.style.margin = '0 auto';
-element.style.padding = '5%';
-element.style.backgroundColor = 'green';
-element.style.color = 'white';
+box.style.fontSize = '2rem';
+box.style.width = '300px';
+box.style.margin = '0 auto';
+box.style.padding = '5%';
+box.style.backgroundColor = 'green';
+box.style.color = 'white';
+
+
+
+
